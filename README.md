@@ -1,6 +1,5 @@
 ---
 Name: Suraj Gorai
-Github: https://github.com/surajgoraicse
 Email: surajgoraicse@gmail.com
 Linkedin: https://linkedin.com/in/surajgoraicse
 Leetcode : https://leetcode.com/u/surajgoraicse/
