@@ -1,3 +1,14 @@
+---
+Name: Suraj Gorai
+Github: https://github.com/surajgoraicse
+Email: surajgoraicse@gmail.com
+Linkedin: https://linkedin.com/in/surajgoraicse
+Leetcode : https://leetcode.com/u/surajgoraicse/
+Ph no: 9110099518
+date: 2026-03-18
+---
+
+
 
 - Assignment Solution : [assignment.md](./assignment.md)
 - Note to reviewer : [Note](./note.md) 
