@@ -1,13 +1,10 @@
 ---
----
----
 Name: "Suraj Gorai"
 Github: "github.com/surajgoraicse"
 Email : "surajgoraicse@gmail.com"
 Linkedin : "linkedin.com/in/surajgoraicse"
 Ph no : 9110099518
 date: 2026-03-18
-
 ---
 
 
